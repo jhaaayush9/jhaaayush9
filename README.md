@@ -88,7 +88,7 @@
 
 ---
 
-## 🍔 Bhukmari – Food Ordering Application
+## 🍔 BhukMari – Food Ordering Application
 
 > A full-stack food ordering platform where users can browse food, manage their cart, and place orders.
 
@@ -133,32 +133,17 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jhaaayush9&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaaayush9&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # 🧠 Currently Learning
 
 <div align="center">
 
-
-TechnologyProgress☕ Java🚀 Learning🧠 Data Structures & Algorithms🔥 Improving⚛️ Advanced React.js💻 Learning🔐 Cybersecurity🛡️ Exploring🏗️ System Design📚 Learning
+| Technology | Progress |
+|------------|----------|
+| ☕ Java | 🚀 Learning |
+| 🧠 Data Structures & Algorithms | 🔥 Improving |
+| ⚛️ Advanced React.js | 💻 Exploring |
+| 🔐 Cybersecurity | 🛡️ Exploring |
+| 🏗️ System Design | 📚 Learning |
 
 </div>
 
